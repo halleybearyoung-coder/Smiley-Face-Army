@@ -536,7 +536,7 @@
 
     <!-- Header -->
     <header class="flex items-center justify-between p-2 bg-stone-800 border-b border-stone-700">
-        <h1 class="text-xl font-bold text-yellow-400">Smiley Face Dev</h1>
+        <h1 class="text-xl font-bold text-yellow-400">Smiley Face Army Dev</h1>
         <div>
             <span id="status-indicator" class="text-sm text-green-400 mr-4"></span>
             
